@@ -20,7 +20,11 @@ The review offers developers formative feedback: feedback to help Makers do bett
 ## GENERAL FEEDBACK
 
 ### 2
-**05 February 2021 / 02:00 PM / Reviewer: Ronald Munodawafa** "Your programming has improved quite considerably from the last reviews. I appreciate the resourcefulness you employ in your process. I encourage you to spend more time reading backtrace messages, your testing discipline and including refactor phases. Focussing on these will refine your brilliant process further." 
+**05 February 2021 / 02:00 PM / Reviewer: Ronald Munodawafa** "Your programming has improved quite considerably from the last reviews. I appreciate the resourcefulness you employ in your process. I encourage you to spend more time reading backtrace messages, your testing discipline and including refactor phases. Focussing on these will refine your brilliant process further."  
+Detailed feedback is available [here](./feedback/2020-02-05-Orange-Geodude-64-feedback.pdf)  
+A screen recording of this session is available on [You Tube](https://www.youtube.com/watch?v=Igt0dkK_fTw).
 
 ### 1
-**17 December 2020 / 09:00 AM / Reviewer: Ronald Munodawafa** "You currently have a good basis for forming a solid development methodology. You have a sense of test-first development. The process could be refined further by being more iterative and incremental. Taking more time to analyse the requirements the client has given you would also help inform the development process better. That said, I was happy to see the direct use of the example the client provided. It showed explicit focus on the client's needs. Well done!"
+**17 December 2020 / 09:00 AM / Reviewer: Ronald Munodawafa** "You currently have a good basis for forming a solid development methodology. You have a sense of test-first development. The process could be refined further by being more iterative and incremental. Taking more time to analyse the requirements the client has given you would also help inform the development process better. That said, I was happy to see the direct use of the example the client provided. It showed explicit focus on the client's needs. Well done!"   
+Detailed feedback is available [here](./feedback/2020-12-17-Orange-Geodude-64-feedback.pdf)  
+A screen recording of this session is available on [You Tube](https://www.youtube.com/watch?v=FGL63uK9fpI).
